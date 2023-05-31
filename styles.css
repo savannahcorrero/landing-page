@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,100&display=swap');
 
 * {
     padding: 0 0;
@@ -78,6 +78,7 @@ a {
     border-radius: 10px;
 }
 
+/* Cards and Info */
 .info {
     margin: 100px;
     display: flex;
@@ -112,6 +113,7 @@ a {
     margin-top: -15px;
 }
 
+/* Quote and End Section */
 .quote {
     background-color: #E5E7Eb;
     height: 400px;
