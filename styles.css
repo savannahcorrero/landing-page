@@ -77,3 +77,37 @@ a {
     border: 0;
     border-radius: 10px;
 }
+
+.info {
+    margin: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.info img {
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    margin: 20px;
+}
+
+.h2 {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: -50px;
+}
+
+.card-cont {
+    display: flex;
+    justify-content: space-between;
+    max-width: 100%;
+    margin: 50px;
+}
+
+.card-txt {
+    text-align: center;
+    margin-top: -15px;
+}
