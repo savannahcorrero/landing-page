@@ -111,3 +111,87 @@ a {
     text-align: center;
     margin-top: -15px;
 }
+
+.quote {
+    background-color: #E5E7Eb;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 50px;
+}
+
+.quote h3 {
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.quote p {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.quote-p {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 30px;
+    margin-right: 150px;
+}
+
+.end {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blue-box {
+    background-color: #3882F6;
+    width: 75%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    border-radius: 20px;
+}
+
+.end-L {
+    color: white;
+    width: 60%;
+    padding: 25px;
+    margin-left: 50px;
+}
+
+.end-L h4 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.end-R button {
+    font-size: 12px;
+    color: white;
+    background-color: #3882F6;
+    width: 100px;
+    height: 40px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+.end-R {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: 25%;
+    margin-right: 45px;
+    margin-top: 30px;
+    padding: 25px;
+}
+
+.footer {
+    color: white;
+    background-color: #1F2937;
+    text-align: center;
+    padding: 20px;
+}
