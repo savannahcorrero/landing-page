@@ -27,6 +27,7 @@
 
 ul {
     display: flex;
+    align-items: flex-end;
     list-style: none;
     gap: 20px;
 }
